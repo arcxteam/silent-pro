@@ -20,7 +20,7 @@ Silent Protocol utilizes zk-SNARKs to ensure privacy. zk-SNARKs require a truste
 
 - Note: Register is limited just inviting only [Join-Silent-Ceremony](https://ceremony.silentprotocol.org/?ref=842976190050660352)
 - Need login with account Twitter/X and register email to get any code
-- This script running for users in the list **Queue**
+- This script running for users in the list **`Queue`**
 - This script auto pass **`ping`** and **`background-run`**
 - VPS-server (optional) for auto 2-3 Day queue and manual you need uptime browsers tab on chrome/edge/firefox
 
