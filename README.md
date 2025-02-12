@@ -1,4 +1,4 @@
-# Silent Protocol Ceremony Contribution
+# Sil3nt Pr0t0c0l Cerem0ny C0ntributi0n
 
 Silent Protocol utilizes zk-SNARKs to ensure privacy. zk-SNARKs require a trusted setup process to generate a proving key and verifying key.
 
