@@ -20,14 +20,15 @@ Silent Protocol utilizes zk-SNARKs to ensure privacy. zk-SNARKs require a truste
 
 - Note: Register is limited just inviting only [Join-Silent-Ceremony](https://ceremony.silentprotocol.org/?ref=842976190050660352)
 - Need login with account Twitter/X and register email to get any code
-- This script running for users in the list **`Queue`**
-- This script auto pass **`ping`** and **`background-run`**
-- VPS-server (optional) for auto 2-3 Day queue and manual you need uptime browsers tab on chrome/edge/firefox
+- This running for users in the behind list **`Queue`**
+- This auto pass **`ping`** and **`background-run`**
+- VPS-server (optional) for autoping 2-3 Day queue and manual you need uptime browsers tab on chrome/edge/firefox
+- **Don't forget check logs everyday and stanby if the `Queue` at 100, after that plz `Complete All Task` timer 15mins**
 
 
 ## Requirements
 
-- **Python** have 3.7 or latest version and modul
+- **Python** have 3.11 up or latest version and modul
 - **npm** have npm installed
 - **Pm2** have processing manager 2 installed
 
